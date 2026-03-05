@@ -17,7 +17,7 @@ npx @vibgrate/cli scan .
 | Repository | Description |
 |---|---|
 | [cli](https://github.com/vibgrate/cli) | The Vibgrate CLI — scan, score, baseline, and report upgrade drift across Node, .NET, Python, and Java projects |
-| [manifests](https://github.com/vibgrate/manifests) | Downloadable package-version manifests for offline and air-gapped drift scoring |
+| [holistic-code-specification](https://github.com/vibgrate/holistic-code-specification) | Holistic Code Specification (HCS) - Official Interpreter's Guide |
 
 ### How it works
 
